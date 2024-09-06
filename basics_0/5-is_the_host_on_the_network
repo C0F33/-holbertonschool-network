@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # find the host on a network
 
 if [ "$1" ]
